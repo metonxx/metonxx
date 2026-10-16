@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, I'm Metehan!
 
-<!--
-**metonxx/metonxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a guy from Ankara, Türkiye, who's always been curious about how technology works behind the scenes.
 
-Here are some ideas to get you started:
+I have around a year of hands-on experience in **System & Network Engineering**, working with servers, networks, and IT infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Computer Programming** graduate, currently pursuing a Bachelor's degree in **Management Information Systems**.
+
+My interests revolve around **Linux, Networking, System Administration, and Cloud Technologies**. These days, I'm exploring **Cloud & DevOps**, experimenting with new tools, and building projects along the way.
+
+I enjoy understanding how things work, breaking them in my home lab, and figuring out how to put them back together.
+
+### Fun Facts
+
+- I'm a big fan of movies and TV series.
+- I enjoy watching anime.
+- I spend quite a bit of time playing video games.
+- Going to the gym is part of my routine.
+- I can spend hours troubleshooting something just to understand why it broke.
+
+*Always curious, always learning, always building.*
+
+
